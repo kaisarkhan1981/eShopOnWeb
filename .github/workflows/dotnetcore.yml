@@ -1,12 +1,12 @@
-name: eShopOnWeb Build and Test
+#name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
 #on: [push, pull_request, workflow_dispatch]
 
-jobs:
-  build:
+#jobs:
+#  build:
 
-    runs-on: ubuntu-latest
+   # runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
