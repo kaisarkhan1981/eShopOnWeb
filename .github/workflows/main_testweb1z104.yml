@@ -3,11 +3,11 @@
 
 name: Build and deploy ASP.Net Core app to Azure Web App - testweb1z104
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+#on:
+ # push:
+   # branches:
+   #   - main
+#  workflow_dispatch:
 
 jobs:
   build:
