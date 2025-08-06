@@ -1,7 +1,5 @@
 #start this file
 #2nd comments
-#3rd comments
-##############################################################################
 name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
