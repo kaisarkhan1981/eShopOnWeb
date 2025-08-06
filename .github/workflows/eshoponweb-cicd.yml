@@ -1,4 +1,5 @@
 #start this file
+# this is another test
 name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
